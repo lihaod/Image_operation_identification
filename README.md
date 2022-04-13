@@ -9,6 +9,11 @@ This repo contains the source code and demo for the paper [Identification of Var
 
 Please try to run the demo ([code/demo.m](code/demo.m)).
 
+## Dataset
+
+Part of the image dataset used in this paper is available at: https://pan.baidu.com/s/1miwvFio?pwd=yzi7
+
+
 ## Citation
 
 Please cite the following paper if you plan to use the code in your own work: 
